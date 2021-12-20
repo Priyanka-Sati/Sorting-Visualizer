@@ -48,3 +48,6 @@ function enable_buttons()
         }
     },c_delay+=delay_time);
 }
+
+
+/* Priyanka Sati */
